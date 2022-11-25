@@ -1,1 +1,1 @@
-# Human-Pose-Similarity-Dataset
+该数据集为自建数据集，来自合作项目中某工厂洗衣机装配流水线的现场视频。
